@@ -1,0 +1,141 @@
+Escreva um programa que imprima na tela a frase: "Estou aprendendo Python!"
+
+
+print('estou aprendendo phyton')
+
+Crie um programa que imprima seu nome na tela.
+
+nome = input ('qual seu nome? ')
+
+print(nome)
+
+Crie uma variável chamada cidade e atribua o nome da sua cidade. Depois imprima essa variável.
+
+cidade = input ('qual é sua cidade? ')
+print (cidade)
+
+Crie uma variável chamada idade com sua idade e imprima o valor dela.
+
+idade = input ('qual sua idade? ')
+print (idade)
+
+Imprima a frase: "Bem-vindo ao curso de Python" usando o print().
+
+print('Bem-vindo ao curso de python')
+
+Crie uma variável chamada curso com o valor "Desenvolvimento de Sistemas" e imprima.
+
+
+curso = ('desenvolvimento de sistemas')
+print (curso)
+
+crie uma variável chamada nome e imprima a frase:
+ "Olá, [nome]" usando concatenação.
+
+
+nome = 'Vinicius'
+print ('olá, '+nome)
+
+Crie uma variável chamada profissao e imprima:
+ "Eu quero ser [profissao]".
+
+
+
+
+profissao = 'Nao sei'
+print('Eu quero ser',profissao)
+
+
+
+Crie duas variáveis: nome e idade.
+ Imprima: "Meu nome é [nome] e tenho [idade] anos."
+
+nome = 'vinicius'
+idade = '24'
+print(f'Meu nome é {nome} e tenho {idade} anos')
+
+Crie uma variável chamada time e imprima:
+ "Meu time do coração é [time]"
+
+time = 'O Corinthians!'
+print('Meu time do coração é '+ time)
+
+Crie uma variável chamada altura e imprima:
+ "Minha altura é [altura] metros."
+
+altura = '1,80 m'
+print('Minha altura é',altura)
+
+Crie uma variável chamada ano com o ano atual e imprima:
+ "Estamos no ano de [ano]"
+
+
+ano = input ('Em qual ano estamos ')
+print(ano)
+
+Crie uma variável chamada linguagem com o valor "Python" e imprima:
+ "Estou estudando [linguagem]"
+
+
+linguagem = input('Qual linguagem está estudando? ')
+print(linguagem)
+
+Crie uma variável chamada nota e imprima:
+ "Minha nota foi [nota]"
+
+
+nota = input('Qual foi sua nota? ')
+print(nota)
+
+Crie duas variáveis: produto e preco.
+ Imprima: "O produto [produto] custa R$ [preco]"
+
+
+prod = input()
+preço = int(input())
+print(f'O produto {prod}, custa R${preço}')
+
+Crie uma variável chamada bairro e imprima:
+ "Eu moro no bairro [bairro]"
+
+
+
+
+bairro = input()
+print(f'Eu moro no bairro {bairro}')
+
+Crie uma variável chamada escola e imprima:
+ "Eu estudo na escola [escola]"
+
+
+escola = input()
+print(f'Eu estudo na escola {escola}.')
+
+Crie três variáveis: nome, cidade e estado.
+ Imprima:
+ "[nome] mora em [cidade] - [estado]"
+
+
+nome = input()
+cidade = input()
+estado = input()
+print(f'{nome} mora em {cidade}-{estado}')
+
+Crie uma variável chamada animal e imprima:
+ "Meu animal favorito é o [animal]"
+
+
+animal = input()
+print(f'meu animal favorito é o {animal}.')
+
+
+
+Crie duas variáveis: marca e modelo.
+ Imprima:
+ "Eu tenho um [marca] modelo [modelo]"
+
+
+
+marca = input()
+modelo = input()
+print(f'Eu tenho um {marca} modelo {modelo}')
